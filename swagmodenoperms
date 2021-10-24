@@ -6,7 +6,7 @@ game.StarterGui:SetCore("SendNotification", {
 
 game.StarterGui:SetCore("SendNotification", {
         Title = "Quick Note";
-        Text = "This is not swag mode its just one that has no premium commands enjoy not being abused!";
+        Text = "THIS IS NOT SWAG MODE It's a remake with of it with no premium commands";
         Duration = 10;
     })
 
