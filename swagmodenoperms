@@ -1,3 +1,4 @@
+
 game.StarterGui:SetCore("SendNotification", {
         Title = "Update Log";
         Text = "change the obfuscator so script doesnt get deobfuscated also fixed fly (i think) working on superhero fly adding it soon...";
@@ -12,6 +13,7 @@ game.StarterGui:SetCore("SendNotification", {
 
 
 --/// hahhaha not using PSU \\\--
+
 _1L6rOTQCAd1EXQOb, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
